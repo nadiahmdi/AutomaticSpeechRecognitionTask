@@ -1,8 +1,3 @@
-# Automatic Speech Recognition Project
-
-This project allows users to perform Automatic Speech Recognition (ASR) using the Hugging Face ASR model (openai/whisper-large-v3). 
-Users can record voice or upload audio files to obtain text descriptions of the audio.
-
 ---
 title: Speech To Text
 emoji: 👀
@@ -17,6 +12,10 @@ license: apache-2.0
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+# Automatic Speech Recognition Project
+
+This project allows users to perform Automatic Speech Recognition (ASR) using the Hugging Face ASR model (openai/whisper-large-v3). 
+Users can record voice or upload audio files to obtain text descriptions of the audio.
 
 ## Demo
 
